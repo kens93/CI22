@@ -22,13 +22,14 @@ title: Causal Inference 2022
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here you find course materials, notes and data for the Causal Inference course of the University of Oxford in Hilary 2022.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/guidelines" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
