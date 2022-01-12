@@ -6,7 +6,7 @@ nav_order: 1
 
 
 
-This is the course page for Causal Inference in Hilary 2022 at DPIR.
+This is page of the Causal Inference course in Hilary Term 2022 at the DPIR of the University of Oxford.
 
 ## Lectures
 
