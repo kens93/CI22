@@ -6,13 +6,12 @@ layout: home
 
 This is the course page for Causal Inference in Hilary 2022 at DPIR.
 
-
+## Lectures
 
 ## Labs
 
-Every Friday.
+Thursday 12pm & Friday 12:15pm
 
-## Lectures
 
 ## Assignments
 
