@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Causal Inference 2022
+title: Causal Inference HT 2022
+       Uni Oxford
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here you find course materials, notes and data for the Causal Inference course of the University of Oxford in Hilary 2022.
@@ -34,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-footer_content: "Copyright &copy; 2022 Felipe Raposo Tores & Kenneth Stiller."
+footer_content: "Copyright &copy; 2022 Ria Ivandic, Felipe Torres Raposo & Kenneth Stiller."
 
 
 
